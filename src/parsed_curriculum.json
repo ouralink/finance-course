@@ -1,0 +1,964 @@
+{
+    "years": [
+        {
+            "number": 1,
+            "title": "Foundations of Business and Finance",
+            "modules": [
+                {
+                    "name": "Financial Accounting (Financial Statements)",
+                    "description": "Learn to prepare and interpret the three key",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Introduction to Financial Statements \u2013 Khan Academy (playlist on Accounting &",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Managerial Accounting (Cost & Management)",
+                    "description": "This covers internal accounting tools for decisionmaking. Topics include cost behavior, budgeting, break-even analysis, and performance metrics.",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Managerial Accounting Introduction \u2013 Accounting Stuff (YouTube). Khan Academy:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Microeconomics",
+                    "description": "Study individual economic agents and markets. Key topics include supply and",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video series: Principles of Microeconomics \u2013 Khan Academy. Course: Microeconomics",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Macroeconomics",
+                    "description": "Learn about the economy-wide environment. Topics include GDP, inflation,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Principles of Macroeconomics \u2013 Khan Academy. Course: Principles of",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Mathematics for Finance",
+                    "description": "Build quantitative skills. Courses include Calculus (differentiation,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Calculus for Finance \u2013 Single Variable \u2013 professor Leonard (YouTube). MIT OCW:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Statistics and Probability",
+                    "description": "Core statistics for finance: descriptive statistics, probability distributions,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Statistics & Probability \u2013 Khan Academy (full course). Course: Intro to Statistics \u2013",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Computer Skills (Excel & Programming)",
+                    "description": "Fundamental tool skills. Learn spreadsheet modeling",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Tutorial: Excel Crash Course for Finance \u2013 YouTube (Corporate Finance Institute).",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 2,
+            "title": "Core Finance and Investments",
+            "modules": [
+                {
+                    "name": "Corporate Finance I (Fundamentals)",
+                    "description": "Core financial management. Topics include time value of",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Corporate Finance 101 \u2013 Aswath Damodaran\u2019s lecture (NYU Stern) on NPV.",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Investments I (Modern Portfolio Theory)",
+                    "description": "Basics of investments and portfolio management.",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Modern Portfolio Theory and Diversification \u2013 Ben Felix (YouTube). Course: Investing",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Financial Markets and Institutions",
+                    "description": "Survey of capital markets and banking. Topics include how",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: How Stock Exchanges Work \u2013 Khan Academy. Course: Financial Markets \u2013 Yale",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Advanced Quantitative Methods",
+                    "description": "Continue statistics and introduce econometrics basics. Topics:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Regression Analysis Basics \u2013 Khan Academy. Course: Econometrics: Methods and",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Financial Modeling and Excel",
+                    "description": "Practical modeling. Training on building financial models in Excel:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video series: Excel for Finance \u2013 YouTube (ExcelIsFun). Course: Financial Modeling &",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Introduction to FinTech",
+                    "description": "Basic overview of financial technology. Topics include digital payments,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: FinTech Explained (Blockchain, Crypto) \u2013 Coursera (intro on YouTube). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 3,
+            "title": "Advanced Corporate Finance and Markets",
+            "modules": [
+                {
+                    "name": "Corporate Finance II (Capital Structure & Payouts)",
+                    "description": "Advanced corporate finance topics. Topics",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Capital Structure Decisions \u2013 Damodaran Lecture (YouTube). Case studies: M&A",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Valuation & Financial Modeling",
+                    "description": "Dedicated to valuing companies. Covers discounted cash flow",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Valuation Techniques (DCF & Multiples) \u2013 Aswath Damodaran (YouTube playlist).",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Fixed Income Securities",
+                    "description": "Study bond markets and interest rates. Topics include bond pricing, yield",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Bond Pricing & Yield Concepts \u2013 Khan Academy (Bonds Video Series). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Derivatives and Risk Management",
+                    "description": "Fundamentals of derivatives. Covers forwards, futures, options,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Options Basics & Pricing \u2013 Investopedia Academy YouTube. Video: Futures &",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "International/Global Finance",
+                    "description": "Examine finance in a global context. Topics include foreign exchange",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Exchange Rates & International Finance \u2013 Khan Academy (Lecture). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Behavioral Finance",
+                    "description": "Study of how psychology affects financial decisions. Topics include common",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Behavioral Finance Key Concepts \u2013 CFI (Investopedia series). Course: Behavioral",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Data Science & Analytics for Finance",
+                    "description": "Introduce data-driven finance with Python/R. Topics include",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Data Science for Finance (Python Intro) \u2013 YouTube (freeCodeCamp or Corey",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Practical Project/Investment Fund",
+                    "description": "Apply learning to a real or simulated project. Many programs",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "(No single link; try \u201cStudent Investment Fund Case Study\u201d on YouTube.) Reading: Case",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                }
+            ]
+        },
+        {
+            "number": 4,
+            "title": "Special Topics and Capstone",
+            "modules": [
+                {
+                    "name": "FinTech & Digital Assets",
+                    "description": "In-depth FinTech topics. Advanced subjects like blockchain technology,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Blockchain and Bitcoin Explained \u2013 Columbia University (YouTube). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Private Equity and Venture Capital",
+                    "description": "Finance of entrepreneurial ventures and buyouts. Covers",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Introduction to Venture Capital and Private Equity \u2013 CFI (YouTube). Course: Startup",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Alternative Investments",
+                    "description": "Hedge funds, real estate, commodities, and hedge fund strategies (long/",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Alternative Investments Overview \u2013 Edspira (YouTube). Course: Hedge Fund",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Advanced Corporate Strategy in Finance",
+                    "description": "Case-based course combining finance with strategic",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Case: Harvard Business School: e.g. \u201cWeWork Financial Analysis\u201d (if available). Video:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Capstone Thesis or Internship",
+                    "description": "In final term, students complete a significant research project or",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "(No specific resources; focus on mentorship or project guidelines provided by the chosen",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Financial Reporting & Analysis",
+                    "description": "Review of accounting from a managerial perspective. MBA-level",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Financial Accounting Refresher \u2013 HBS Online (Leading with Finance). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Corporate Finance (MBA Core)",
+                    "description": "Advanced treatment of corporate finance topics with managerial",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Corporate Finance Principles (MBAs) \u2013 YouTube (Corporate Finance Institute).",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Managerial Economics",
+                    "description": "Focus on microeconomic and macroeconomic analysis for managerial",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Managerial Economics \u2013 CU Boulder (YouTube playlist). Course: Managerial",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Data Analytics for Managers",
+                    "description": "MBA-level statistics and data science. Builds on earlier stats to",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Course: Data, Models & Decisions \u2013 Wharton (Coursera). Article: Data Science in Finance",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Leadership and Ethics (Finance-oriented)",
+                    "description": "MBA electives often cover leadership skills and ethics;",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Article: Ethics in Finance \u2013 Investopedia. Case: Ethical Dilemmas in Banking \u2013 MBA case",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Advanced Corporate Finance & Strategy",
+                    "description": "Deep dive into complex financing decisions. Topics:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Advanced Corporate Finance Lecture \u2013 Wharton YouTube (FNCE course videos).",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Investment Banking & Capital Markets",
+                    "description": "Detailed study of the investment banking business. Topics",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Investment Banking Overview \u2013 Mergers & Inquisitions (YouTube). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Private Equity and Venture Capital Finance",
+                    "description": "Focused study on funding alternative opportunities.",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Intro to LBO Modeling \u2013 Macabacus (YouTube). Course: Private Equity and Venture",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "FinTech & Digital Innovation in Finance",
+                    "description": "Advanced FinTech. Topics: cryptocurrency investment,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Blockchain in Finance \u2013 Harvard Business School (YouTube excerpts). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Quantitative Methods for Finance",
+                    "description": "Advanced analytics. Topics: financial econometrics, machine",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Course: Machine Learning for Trading \u2013 Udacity (free content). Video: Python for Data",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Risk Management and Derivatives (MBA level)",
+                    "description": "Comprehensive risk management. Topics:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Risk Management in Banking \u2013 NYIF (YouTube). Course: Financial Risk Management",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Behavioral Finance & Market Psychology",
+                    "description": "At MBA level, revisits behavioral concepts in depth,",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "Video: Advanced Behavioral Finance \u2013 Cornell Johnson School (YouTube). Course:",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Capstone Project/Thesis",
+                    "description": "Culmination of MBA finance specialization. Often a consulting project with",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                },
+                {
+                    "name": "Resources",
+                    "description": "(No single resource \u2013 dependent on project. Guidance often from faculty and industry",
+                    "resources": {
+                        "videos": [],
+                        "courses": [],
+                        "readings": [],
+                        "articles": [],
+                        "tutorials": [],
+                        "case_studies": []
+                    }
+                }
+            ]
+        }
+    ]
+}

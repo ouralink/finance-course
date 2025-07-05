@@ -1,0 +1,4034 @@
+[
+    {
+        "quiz_number": 1,
+        "quiz_name": "Quiz: Financial Accounting Fundamentals",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "A company issues \\$10 million in new shares for cash. Which of the following best describes the",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. Assets decrease by \\$10M, Equity increases by \\$10M",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Assets increase by \\$10M, Equity increases by \\$10M (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Assets increase by \\$10M, Liabilities increase by \\$10M",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Assets and Equity both decrease by \\$10M",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: Issuing equity raises cash, so assets go up by \\$10M, and shareholders\u2019 equity (share",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "What is the fundamental accounting equation for a firm\u2019s balance sheet?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. Assets = Liabilities \u2013 Equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Assets = Liabilities + Equity (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Liabilities = Assets + Equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. Assets = Liabilities \u00d7 Equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: The balance sheet is based on the equation Assets = Liabilities + Shareholders\u2019 Equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "In a financial statement, depreciation expense is a non-cash charge. How does including",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. It has no effect on cash flow from operations.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. It is added back to net income when calculating cash flow from operations. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. It is subtracted from net income when calculating cash flow from operations.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. It is counted as an operating cash outflow.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: Depreciation is a non-cash expense, so when converting accrual net income to",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "A company buys equipment for \\$5,000 cash. How does this transaction affect the balance sheet",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Assets increase, Liabilities increase",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Liabilities increase, Equity decreases",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Cash (asset) decreases by \\$5,000, fixed assets (asset) increases by \\$5,000 (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Cash (asset) decreases by \\$5,000, Equity decreases by \\$5,000",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Purchasing equipment reduces cash and increases fixed assets by the same amount, so",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "A firm has \\$100,000 in total assets and \\$30,000 in liabilities. What is its shareholders\u2019 equity?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. \\$30,000",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. \\$70,000",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. \\$70,000 (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. \\$130,000",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: By the accounting equation (Assets = Liabilities + Equity), equity = assets \u2013 liabilities = \\",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "Which scenario illustrates a correct double-entry accounting effect?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Inventory purchase increases Inventory and reduces Cash, so total assets rise.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Repaying a bank loan decreases both Cash (asset) and Liabilities. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Declaring dividends increases cash and decreases equity.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Receiving cash for future service increases Revenue immediately.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: Paying off debt reduces both cash (an asset) and loan payable (a liability) by the same",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "On which financial statement would you find accounts payable and why?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Income Statement, because it is an expense.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. Cash Flow Statement, as a financing activity.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Balance Sheet, because it is a liability. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Statement of Equity, because it affects retained earnings.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: Accounts payable is money owed to suppliers (a liability), so it appears on the balance",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "A start-up seeds a company with \\$10M. Which accounts change and by how much?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. Cash increases by \\$10M; Notes Payable increases by \\$10M.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. Cash increases by \\$10M; Revenue increases by \\$10M.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Cash (Asset) increases by \\$10M; Share Capital (Equity) increases by \\$10M. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Cash (Asset) increases by \\$10M; Expenses increase by \\$10M.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: The initial investment increases the company\u2019s cash (asset) and shareholders\u2019 equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "Which of the following best describes \u201cShareholders\u2019 Equity\u201d on the balance sheet?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. All cash and marketable securities owned by the company.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Total assets minus total liabilities.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. The owners\u2019 claim after all liabilities are subtracted from assets. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. The portion of assets financed by debt.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Shareholders\u2019 equity represents the residual interest in the assets after deducting",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "If a company\u2019s total liabilities increase while assets remain constant, what must change?",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 2,
+        "quiz_name": "Quiz: Microeconomics & Statistics Fundamentals",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "If the price of a good increases by 10% and the quantity demanded falls by 20%, how is this good",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. Inelastic (demand change < price change)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Unitary elastic (demand change = price change)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Elastic (demand change > price change) (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Perfectly inelastic (demand change = 0)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: Elasticity measures responsiveness: here demand falls more (20%) than the price",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "Which scenario best illustrates elastic demand?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. A life-saving drug with no substitutes when its price rises.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Airline tickets, where consumers can choose other airlines if one raises prices. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Gasoline in the short term, since consumers cannot easily change usage.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. Prescription eyeglasses, an essential commodity.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: Goods with many substitutes (like airline flights) exhibit elastic demand because a price",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "What does a probability distribution depict in finance and statistics?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. The sequence of company earnings.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. The likelihood of each possible outcome of a random variable. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. The correlation between two financial assets.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. The time-series trend of a single variable.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: A probability distribution shows the statistical likelihood of every possible outcome. For",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "A normal distribution (bell curve) is often used to model stock returns. In a normal distribution,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. 50%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. 68% (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. 95%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. 99.7%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: By definition of the normal distribution, roughly 68% of observations fall within \u00b11",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "If an economist says a good has unit elastic demand, what does this mean?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Demand changes proportionally more than price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Demand changes proportionally less than price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Demand changes by exactly the same percentage as price. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Demand does not change with price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Unit elasticity means a given percentage change in price causes an equal percentage",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "An analyst is using past stock returns to estimate future volatility. Which statistical concept is most",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Correlation coefficient",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Regression line slope",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Standard deviation of returns (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Expected value (mean) of returns",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: The standard deviation measures how widely returns are dispersed around the mean,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "The law of demand states that, all else equal, if the price of a product increases, the quantity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Increase",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. Decrease (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Stay the same",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Become negative",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: According to the law of demand, higher prices lead to lower quantity demanded (an",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "Which of the following defines a 95% confidence interval in statistics?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. The probability that the population parameter lies in the interval is 95%.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. 95% of the population values lie within the interval.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. If we repeat the experiment many times, 95% of such intervals will contain the true",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. The sample mean is exactly in the middle of the interval.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: A 95% confidence interval means that in the long run, 95% of such intervals from",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "A correlation coefficient between two stocks is calculated as -0.8. What does this imply about their",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. They move perfectly in unison.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. They tend to move in opposite directions, and quite strongly. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. There is no linear relationship between their returns.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Their returns always change by the same percentage.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: A correlation of -0.8 indicates a strong negative linear relationship, so when one stock",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "In a dataset of monthly sales, the 25th percentile (first quartile) is 50 units and the 75th percentile",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 3,
+        "quiz_name": "Quiz: Corporate Finance Principles",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which statement best illustrates the time value of money concept?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. A dollar earned today is worth less than a dollar earned in the future.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. A dollar today is worth more than the same dollar in the future. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Money has constant value over time if there is no inflation.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Interest rates have no effect on investment decisions.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: The time value of money states that money now can be invested to earn a return, so it\u2019s",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "A project requires an initial outlay of \\$1,000 and generates cash inflows of \\$1,200 in one year. If the",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. No, the NPV is negative.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Yes, the NPV is positive. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Only if the IRR is below 10%.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. Cannot tell without knowing the exact cash flows each month.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: NPV = \\$1,200/1.10 \u2013 \\$1,000 = \\$109.09 (positive). A positive NPV means the project",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "An investment\u2019s ROI (Return on Investment) is calculated as (Ending Value \u2013 Beginning Value) /",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. 21.6% (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. 15.2%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. 35.5%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. 120%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: ROI = (\\$15.20 \u2013 \\$12.50)/\\$12.50 \u2248 0.216, or 21.6% 10 . (This matches the example",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "A firm considers two mutually exclusive projects. Project A has NPV \\$50k, Project B has NPV \\$70k.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Accept both because NPVs are positive.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Accept A because it has higher ROI.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Accept B, since it has the higher NPV and creates more value. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Reject both, since total NPV exceeds initial cost.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: When projects are mutually exclusive, the one with the higher positive NPV should be",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "A 5-year annuity will pay you \\$10,000 at the end of each year. Which financial concept helps you",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Accounting equation.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Present value of an annuity (time value of money). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. CAPM.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Accrual accounting.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: To find the value today of future cash flows, you discount them using the time value of",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "A company is evaluating a project that will reduce operating costs but requires upfront investment.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Current ratio",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Net Present Value (NPV) (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Price/Earnings ratio",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Book value of assets",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: NPV accounts for all cash flows over time, discounting them to present value. It is ideal",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "If the market risk premium is 6% and a stock has beta 1.2 with a risk-free rate of 2%, what is its",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. 2%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. 6%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. 7.2%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. 9.2% (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: CAPM: Expected return = Rf + \u03b2(Market \u2013 Rf) = 2% + 1.2\u00d76% = 9.2%. The risk-free rate",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "A project\u2019s initial cost is \\$100k. It returns \\$30k per year for 5 years. Ignoring taxes, which statement",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. NPV is negative because total inflows 150k < 100k.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. NPV is positive, since discounted inflows exceed \\$100k. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. NPV is zero because inflows equal outflows over time.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Cannot be determined without exact timing of cash flows.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: The present value of five annual \\$30k at 5% exceeds \\$100k. A positive NPV means the",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "What does \u201cleverage\u201d do to return on investment (ROI) when an investment increases in value?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Always decreases ROI by adding interest costs.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Increases ROI, because a smaller equity base earns a larger percent return (if asset value",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Has no effect on ROI.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Changes ROI only if taxes change.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Using borrowed funds (leverage) means less personal capital is invested. If the asset",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "The company has a cost of equity of 12% and a cost of debt of 5% (after tax 4%). Equity is 60% of",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 4,
+        "quiz_name": "Quiz: FinTech Fundamentals",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What is financial technology (FinTech)?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. Traditional banking methods with online access.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Manual bookkeeping of financial transactions.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Innovative technology to improve and automate financial services delivery. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Securities trading on the open market.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: FinTech refers to integrating technology into financial services to improve their delivery",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "Which of the following is a common example of FinTech application?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. Paper check processing at a bank branch.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. A robo-advisory app that builds a portfolio algorithmically. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. A physical gold coin purchase.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. A traditional stockbroker\u2019s phone trade.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: Examples of fintech include robo-advisors, payment apps, peer-to-peer lending",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "FinTech often leads to improved financial inclusion. What does this mean?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. More banking rules for consumers.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. Limiting financial services to large corporations.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. Extending financial services access to underserved people or areas. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. Increasing exclusivity of investment products.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: Many fintech companies use technology to serve underserved populations and cut",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "Blockchain technology is important in FinTech. Which statement best describes blockchain?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. A centralized database managed by a single entity.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. A decentralized digital ledger recording transactions across many computers. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. A type of high-frequency trading algorithm.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. A traditional relational database with enhanced encryption.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Blockchain is a distributed, decentralized ledger where each node holds a copy of all",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "Which sector has been most notably impacted by blockchain technology?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Cryptocurrency and digital assets. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Traditional savings accounts (interest-bearing).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Standard equity mutual funds.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Commodity futures markets (unchanged).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Blockchains are best known for enabling cryptocurrencies (like Bitcoin) by securely",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "An algorithmic \u201csmart contract\u201d on a blockchain automatically executes when conditions are met.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Manual ledger entry.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Physical contract notarization.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Automated decentralized contract execution. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Cloud-based storage upgrade.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: Smart contracts are blockchain-based programs that automatically execute terms,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "What primary advantage do fintech firms claim by disrupting traditional financial services?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Faster, cheaper transactions and services. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. More personal customer service in branches.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Elimination of all banking regulation.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Higher fees for premium customers.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: FinTech firms aim to be more nimble and cost-effective, often providing faster or lowercost services by unbundling traditional offerings 15 .",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "Peer-to-peer (P2P) lending platforms allow individuals to lend/borrow without banks. This is an",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. Centralizing financial intermediation.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. Democratizing lending by using technology to match lenders and borrowers directly.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Increasing collateral requirements.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Eliminating credit checks entirely.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: P2P lending is a fintech innovation that connects borrowers and lenders directly via",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "Mobile banking apps are a part of FinTech. What is a key feature of such apps?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. All transactions require branch visits.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Access financial services via smartphone anywhere. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Only handle cash deposits.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. They must be used on desktop computers.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: FinTech like mobile banking provides convenience by allowing users to manage",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "Regulatory concerns are significant in FinTech. Which of the following is a common issue?",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 5,
+        "quiz_name": "Quiz: Investment Analysis",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Given a risk-free rate of 3%, a market return of 8%, and a stock beta of 1.3, what is the stock\u2019s",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. 3.0%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. 8.0%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. 9.5% (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. 15.0%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: CAPM: Expected Return = Rf + \u03b2\u00d7(Rm \u2013 Rf) = 3% + 1.3\u00d7(8% \u2013 3%) = 3% + 1.3\u00d75% = 3% +",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "A stock has a beta of 1.2. How would you interpret its risk relative to the market?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. It is risk-free (beta < 1).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. It is more volatile than the market. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. It moves inversely to the market (negative beta).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. It has no correlation with the market.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: A beta > 1 means the stock is riskier (more volatile) than the market. In CAPM terms, a",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "An investor wants to diversify a portfolio of two stocks with correlation 0.1. Compared to holding one",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. Increase portfolio risk.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. Decrease portfolio volatility. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. Have no effect on overall risk.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. Guarantee higher returns.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: A lower correlation between assets generally reduces portfolio volatility because their",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "Which investment strategy is focused on purchasing securities that are expected to outperform in",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Passive indexing.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Buy-and-hold value.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Active trading (momentum or arbitrage). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Leveling into cash reserves.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Active strategies like momentum or arbitrage exploit perceived inefficiencies for shortterm profit, unlike passive or buy-and-hold strategies that assume market efficiency.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "A bond\u2019s yield to maturity (YTM) is 5%. If interest rates suddenly rise to 6%, what happens to the",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Price remains at par.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Price falls. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Price rises.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Price oscillates unpredictably.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: When market interest rates rise, existing bond prices fall so that the bond\u2019s effective",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "If a stock\u2019s returns are uncorrelated with the market (beta = 0), what expected return does CAPM",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Risk-free rate.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Risk-free rate. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Market return.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Zero.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: CAPM formula: Expected return = Rf + \u03b2\u00d7(Market\u2013Rf). If \u03b2=0, expected return = Rf. (It",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "Which of the following best describes \u201cmarket efficiency\u201d in its strong form?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Stock prices reflect all public and private information. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. Prices reflect only historical price information.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Prices reflect no useful information at all.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Arbitrage cannot exist.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: Strong-form efficiency means all information (public and private) is incorporated in",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "Portfolio A has expected return 10% and standard deviation 8%. Portfolio B has 15% return and 15%",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. Portfolio A (Sharpe=10/8=1.25).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. Portfolio A. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Portfolio B (Sharpe=15/15=1.0).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. They have equal Sharpe.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: Sharpe \u2248 Return/Risk here (assuming similar RF). A\u2019s Sharpe \u22481.25 vs. B\u2019s 1.0, so A is",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "An analyst uses linear regression to estimate how gas prices affect an oil company\u2019s stock. What",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. The exact cause of stock movements.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. The association (sensitivity) between gas prices and stock returns. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. The future stock prices with certainty.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. That there is no random variation.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Regression quantifies how changes in an independent variable (e.g. gas prices) are",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "Which risk is systematic and cannot be eliminated by diversification?",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 6,
+        "quiz_name": "Quiz: Advanced Corporate Finance",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "The Weighted Average Cost of Capital (WACC) of a firm is best described as:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. The maximum return managers can earn.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. The blended required return on all sources of capital (debt, equity). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. The rate at which the firm sets prices for its products.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. The interest rate charged on the firm\u2019s largest loan.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: WACC is a firm\u2019s overall cost of capital from debt and equity, weighted by their share in",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "What is the main purpose of adding back depreciation in cash flow calculations?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. To increase reported profits.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. To allocate costs over assets.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. To adjust net income (accrual measure) to actual cash flow. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. To reduce taxes in cash flow statement.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: Depreciation is a non-cash expense. Adding it back to net income on the cash flow",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "A project\u2019s capital budgeting analysis yields a positive NPV when using WACC as the discount rate.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. The project\u2019s IRR is lower than WACC.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. The project adds value to the firm and should be accepted. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. WACC is above the risk-free rate.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. The project requires additional financing.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: A positive NPV (using the firm\u2019s WACC as discount rate) means the project\u2019s returns",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "If a company\u2019s beta increases (all else equal), what happens to its cost of equity?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. It decreases.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. It increases. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. It stays the same.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. It becomes zero.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: In the CAPM, cost of equity = Rf + \u03b2\u00d7(market premium). A higher \u03b2 implies more",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "A firm has equity of \\$300M and debt of \\$200M. The equity beta is 1.5. What can be said about its",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. It is exactly 1.5.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. It is less than 1.5 (deleveraging reduces beta). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. It is more than 1.5.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. It equals the debt beta.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Unlevered (asset) beta removes leverage effect. With significant debt, unlevered beta =",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "A company\u2019s WACC is 10%. A proposed investment has an expected return of 12%. According to",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Reject it, because the return is too high.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Accept it, because return exceeds WACC. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Accept only if financing is all equity.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Reject, because it must exceed 15%.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: If expected return > WACC, the project yields more than the firm\u2019s cost of capital,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "In valuation, why is free cash flow to firm (FCFF) discounted at WACC instead of equity cash flows at",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. FCFF includes costs of debt payments.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. WACC reflects both debt and equity required returns for all capital providers. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Cost of equity is always higher than WACC.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. It actually should be discounted at cost of equity, not WACC.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: FCFF is before debt payments, so to value the firm\u2019s entire capital, we use WACC (which",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "A firm\u2019s effective tax rate increases. What is the effect on the after-tax cost of debt and on WACC?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. After-tax cost of debt rises; WACC rises.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. After-tax cost of debt falls; WACC falls. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Both remain unchanged.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Cost of equity increases as well.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: Higher taxes increase the tax shield on debt (since interest is tax-deductible). So aftertax cost of debt = Rd\u00d7(1\u2013T) decreases, thereby reducing WACC.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "What is trapped equity in the context of WACC?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Equity that cannot be removed from the company due to lock-up restrictions.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Undistributed earnings reinvested in the business that alter leverage and risk profile.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Preferred stock hidden in investment accounts.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Shares owned by employees.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Trapped equity refers to retained earnings used in the business, effectively debtequivalent in funding, which can affect capital structure if considered (concept from advanced corp",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "Which is not a component of WACC?",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 7,
+        "quiz_name": "Quiz: Investment Banking & Capital Markets",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which of the following is a primary function of investment banks?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. Underwriting new debt and equity securities for corporations. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Providing everyday checking accounts to retail customers.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Auditing financial statements.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Setting monetary policy for central banks.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: Investment banks specialize in raising capital and structuring securities (underwriting",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "In an IPO, the investment bank\u2019s main role is to:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. Provide seed capital only.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Price, market, and place the new shares with investors. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Manage the company\u2019s daily finances.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. Guarantee a fixed interest rate to the company.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: In an IPO, banks underwrite and sell the new equity, meaning they set the price, market",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "What does it mean for a bank to \u201cunderwrite\u201d a security issuance?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. The bank offers loans to investors buying the security.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. The bank guarantees to buy any unsold shares or bonds and resell them. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. The bank sets government regulations for the issue.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. The bank assesses mortgage risk.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: Underwriting means the bank agrees to purchase remaining unsold securities from the",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "Which best describes merger and acquisition advisory by investment banks?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Conducting credit analysis of all banks involved.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Valuing companies, structuring deals, and negotiating terms for buyers/sellers. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Providing human resources for merged companies.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Writing legal contracts for real estate transactions.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Investment banks advise clients on M&A by valuing target companies, determining",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "An investment banker would most likely be involved in which transaction?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. A corporation obtaining an overdraft facility from a commercial bank.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. A tech startup raising \\$100M through a private share offering. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. A local government opening a savings account.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. An individual applying for a mortgage.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Fundraising by issuing equity or debt (public or private) is a core IB activity. A",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "What is a \u201croadshow\u201d in investment banking?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. A tour of the trading floor for students.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Presentations to potential investors before an IPO or bond issuance. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Advertising campaign for consumer products.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Regulatory inspections by authorities.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: In preparing for an IPO or bond deal, bankers and company executives meet potential",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "Which group typically makes up the \u201csell-side\u201d in capital markets?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Retail depositors.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. Investment banks and broker-dealers. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Sovereign wealth funds.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Accounting and audit firms.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: The sell-side consists of firms that sell investment products (e.g., IBs, brokers) to end",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "Why was the Glass-Steagall Act repeal (1999) significant for U.S. banking?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. It allowed commercial banks and investment banks to merge operations again. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. It created the Federal Reserve.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. It removed restrictions on stock trades.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. It nationalized major banks.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: The Glass-Steagall Act (1933) had legally separated commercial and investment banking.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "An investment bank\u2019s equity research division primarily provides:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Personalized wealth management for high-net-worth clients.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Analysis and investment recommendations on public companies for institutional clients.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Technology support for trading systems.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Currency exchange services.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Equity research analysts study publicly traded companies and publish buy/sell/hold",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "In underwriting a bond issuance, an investment bank is least concerned with:",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 8,
+        "quiz_name": "Quiz: FinTech & Cryptocurrency",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What is blockchain most commonly used for in finance?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. High-speed electronic trading infrastructure.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Traditional mutual fund accounting.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Recording cryptocurrency transactions on a secure, decentralized ledger. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Determining credit scores.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: Blockchains are distributed ledgers that securely record transactions without a central",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "Which characteristic of blockchain makes it appealing for certain financial applications?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. Fast offline payments with no internet.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Immutability (records cannot easily be altered once added). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Unlimited data storage on every node.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. High privacy by default (no audit trail).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: Blockchain\u2019s cryptographic linking makes the ledger effectively immutable: altering past",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "Beyond cryptocurrencies, blockchains can help with:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. Faster issuance of physical currency.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. Automated auditing by IRS.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. Tracking and verifying asset ownership or transactions in a secure way. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. Reducing all transaction fees to zero.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: Blockchains can be used to record ownership or transfers (e.g., of property, equities)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "What is a smart contract in the context of FinTech?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. A legally binding paper contract signed with a notary.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Encryption software for emails.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. A self-executing digital contract on a blockchain that enforces terms automatically. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. A subscription agreement for fintech services.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Smart contracts are programs on a blockchain that automatically execute transactions",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "One risk unique to cryptocurrency exchanges (a FinTech business) is:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. FDIC insurance requirement.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Uniform lending regulations.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Cybersecurity/hacking of digital wallets. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Physical counterfeiting of crypto.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Cryptocurrency exchanges and wallets face hacking risks. Unlike banks, crypto holdings",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "In finance, what does \u201cknow your customer\u201d (KYC) mean in FinTech?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. A new crypto token standard.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Verifying the identity of clients to prevent fraud and money laundering. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Algorithmic trading rule set.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. A social media challenge.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: KYC is due diligence that fintech firms (like banks, exchanges) perform to ensure",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "Mobile payment apps (e.g., Venmo, WeChat Pay) exemplify FinTech by:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Charging transaction fees higher than banks.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. Enabling peer transfers without physical cash using technology. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Replacing banks entirely.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Only allowing transfers between bank branches.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: Such apps allow instant transfers between users using smartphones, demonstrating",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "Cryptocurrencies are often described as \u201cdigital gold\u201d because:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. They physically contain gold.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. They are scarce and store value, not relying on a central bank. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. They have a fixed 100% annual interest.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. They trade on commodity markets only.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: Many crypto assets (like Bitcoin) mimic gold\u2019s rarity and are held as speculative stores of",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "Decentralized Finance (DeFi) aims to:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Create new fiat currencies.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Reproduce traditional financial services (loans, trading) on public blockchains. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Regulate fintech companies more strictly.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Eliminate all risk in markets.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: DeFi builds financial protocols on blockchain (e.g., lending, derivatives) without central",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "Which regulatory concern is most associated with fintech innovations?",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 9,
+        "quiz_name": "Quiz: Financial Reporting & Control",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Which financial statement shows a company\u2019s assets, liabilities, and equity at a point in time?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. Balance Sheet (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Income Statement",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Cash Flow Statement",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Statement of Shareholder\u2019s Equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: The balance sheet (or statement of financial position) lists assets, liabilities, and",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "On the statement of cash flows, cash flow from operations is found by adjusting net income. Which",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. Increase in accounts receivable",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Depreciation expense (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Decrease in accounts payable",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. Cash dividends paid",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: Depreciation is a non-cash expense, so it is added back to net income when computing",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "A firm has an EPS (earnings per share) of \\$2. After issuing more shares, its total earnings remain \\",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. Increases to \\$4.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. Remains at \\$2.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. Decreases to \\$1. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. Becomes \\$0.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: EPS = total earnings / # of shares. Doubling the share count halves EPS. (Example: \\",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "Which ratio best measures short-term liquidity?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Debt-to-equity ratio",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Current ratio (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Return on equity",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Price/earnings ratio",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: The current ratio (current assets \u00f7 current liabilities) assesses if short-term obligations",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "In financial reporting, \u201cdouble-counting\u201d revenues can lead to:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Overstated assets and overstated revenues.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Overstated revenues and overstated net income. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Overstated liabilities.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Understated expenses and understated profits.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Recognizing the same sale twice artificially inflates revenue (and thus net income).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "What accounting principle requires recognizing revenue when it is earned and realizable?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Conservation principle.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Revenue recognition principle (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Historical cost principle.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Matching principle.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: The revenue recognition principle states revenue is recognized when realized/realizable",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "A company switches from LIFO to FIFO inventory accounting. Assuming rising prices, what happens",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. COGS increases, net income decreases.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. COGS decreases, net income increases. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Both increase.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Both stay the same.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: FIFO uses older (cheaper) inventory costs, so COGS is lower when prices rise, increasing",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "A firm\u2019s debt-to-equity ratio increases dramatically. On its balance sheet, this means:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. Assets decreased.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. More financing is through debt versus equity. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Dividends were just paid.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Revenues will double.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: A higher D/E ratio indicates a larger proportion of financing from debt. (This is basic",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "Which section of the financial statements would you adjust for a non-cash transaction like",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Income statement only.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Cash flow statement (add back non-cash expense). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Balance sheet only.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Equity statement.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Depreciation reduces net income (on income statement) but is added back on cash flows",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "A firm\u2019s net income is \\$500k. Its depreciation expense is \\$100k and it has a \\$50k increase in",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 10,
+        "quiz_name": "Quiz: Corporate Strategy in Finance",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "Why would a company pursue a joint venture (JV) rather than a full acquisition?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. To share costs and risks with another firm while accessing new markets. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. To avoid all regulatory approvals.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Because JVs always have lower tax rates.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. To keep all profits without sharing.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: JVs allow companies to partner and combine resources for a project, sharing risks and",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "\u201cSynergy\u201d in an M&A context means:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. The deal was financed equally by cash and stock.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Combined firms are worth more together than apart. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Both companies have identical product lines.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. The target pays all the fees.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: Synergies imply the combined value (or earnings) of the merged firms exceeds the sum",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "When would a leveraged buyout (LBO) be most appropriate?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. A stable company with strong cash flow that is undervalued and can service debt.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. A startup in early losses.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. A private equity firm targeting a mature company with predictable earnings. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. A company with zero collateral.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: LBOs use high debt to finance an acquisition; suitable targets have stable cash flows to",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "What role does due diligence play before an acquisition?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Only assessing goodwill accounting.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Thoroughly evaluating the target\u2019s finances, operations, and risks. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Guaranteeing loan interest rates.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Setting regulatory penalties.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Due diligence is the comprehensive check of a target\u2019s financials, legal issues,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "Which of the following is NOT typically a value-creation goal of an acquisition?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Increasing market share beyond monopoly levels. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Cost reduction through synergies.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Entry into new markets or products.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Obtaining proprietary technology or talent.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: While many acquisitions aim for cost synergies or strategic expansion, anticompetitive",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "In a merger, which factor would make the deal accretive to the buyer\u2019s EPS?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. The buyer\u2019s earnings per share are lower than the target\u2019s.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. The transaction increases combined EPS due to net income gain exceeding share count",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Using all stock to finance the acquisition.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Paying a premium above market price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: A merger is accretive if pro-forma EPS rises. This generally happens if the buyer\u2019s return",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "What is a poison pill in M&A defense?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Poison sold by target company.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. A strategy that makes the takeover prohibitively expensive for the acquirer. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Corporate law that bans all hostile bids.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. A warranty clause in sale contracts.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: A poison pill is a tactic (like allowing shareholders to buy extra shares cheaply) that",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "Which type of acquisition involves buying a controlling stake using mostly debt financing?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. Greenfield investment.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. Leveraged buyout (LBO). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Asset swap.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Friendly merger.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: An LBO is characterized by heavy use of debt to acquire control of a company, often",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "Post-merger, the acquired company\u2019s purchase price often gets allocated to assets. What accounting",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Depreciation.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Goodwill. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. Deferred revenue.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Operating profit.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Goodwill represents the premium paid over the book value of net identifiable assets. It",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "An investment banker advising on a cross-border M&A deal would emphasize checking:",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 11,
+        "quiz_name": "Quiz: Mergers & Acquisitions",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "If a merger is strategically motivated, what is often the primary goal?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. Maximizing short-term stock price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. Achieving long-term operational or market synergies. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. Minimizing tax rates regardless of business logic.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. Spinning off all combined assets.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: Strategic mergers aim for benefits like expanded market reach, cost savings, or",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "What is the typical effect on a company\u2019s share price on the announcement day of a hostile takeover",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. The target\u2019s share price usually falls.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. The target\u2019s share price usually jumps (reflecting takeover premium). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. No change in the target\u2019s share price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. The bidder\u2019s share price always doubles.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: A hostile bid usually prices above market, so target\u2019s stock jumps toward the offer price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "A private equity firm wants to reduce its investment risk in an LBO. Which strategy would they use?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. Use as much equity financing as possible.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. Carefully structure debt with covenants and appropriate maturity. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. Avoid any financing (all cash).",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. Use currency derivatives.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: LBO risk is largely debt risk. Structuring the debt (tranches, covenants, matching",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "Which type of analysis is used to determine the purchase price range for a target company?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Pivot table financial summary.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Comparable company and precedent transaction valuation. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Credit score model.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Option pricing model.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Buyers often use valuation methods such as DCF, comparables, and prior deal multiples",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "In M&A finance, what does \u2018roll-over equity\u2019 refer to?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. Employee stock options vesting after a merger.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. Sellers reinvesting proceeds into equity of the merged entity. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. Rolling the due date of debt after acquisition.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. Exchanging old shares for cash.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Roll-over equity means that selling shareholders commit to keep part of their proceeds",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "Why would a company structure an acquisition as an asset purchase rather than a stock purchase?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. To include all liabilities.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. For easier share issuance.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. To step up tax basis and avoid inheriting unwanted liabilities. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Because it\u2019s always cheaper.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: In an asset purchase, the buyer can revalue assets (useful for tax depreciation) and",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "What is EBITDA and why is it often used in M&A valuation?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Earnings before interest, taxes, depreciation, and amortization; used as a proxy for cash",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. An expenses measure of efficiency.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. A mandatory reserve account.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. The same as net income.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: EBITDA approximates operating cash flow (ignoring capital structure and taxes) and is",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "During negotiations, the buyer\u2019s financial advisor warns of a \u2019break-up fee\u2019. What is this?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. A tax penalty for early deal closing.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. A payment from target to buyer if deal falls through. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. A surcharge on stock exchanges.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. A cost for terminating accounts.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: A break-up fee is a penalty paid by the target if it backs out of an agreed sale,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "After a merger, the combined company reports increased net income but its debt was used to",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. Combined company\u2019s net profit.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Return on Equity (ROE). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. EPS growth before deal.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Book value of assets.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: ROE = Net Income / Equity, reflecting profitability on equity invested. If debt was added,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "An acquirer and target agree to merge. Each agrees to pay a portion of fees. What are these fees",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    },
+    {
+        "quiz_number": 12,
+        "quiz_name": "Quiz: Alternative Investments & Portfolio Management",
+        "questions": [
+            {
+                "question_number": 1,
+                "question_text": "What is a hedge fund in the context of alternative investments?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 2,
+                "question_text": "A. A pooled investment vehicle that can use aggressive strategies to seek high returns.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 3,
+                "question_text": "B. A government bond fund with low risk.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 4,
+                "question_text": "C. A term for any mutual fund.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 5,
+                "question_text": "D. An insurance product for portfolios.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 6,
+                "question_text": "Explanation: Hedge funds are lightly regulated private funds that may use leverage, short selling,",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 7,
+                "question_text": "Private equity firms typically invest in companies that are:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 8,
+                "question_text": "A. Not publicly traded, often restructuring or growth-stage. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 9,
+                "question_text": "B. Only tech startups.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 10,
+                "question_text": "C. Always large multinationals.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 11,
+                "question_text": "D. Government-owned enterprises.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 12,
+                "question_text": "Explanation: PE firms buy stakes (often full buyouts) in private or public companies, typically focusing",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 13,
+                "question_text": "A mutual fund has a fund manager who \u201ctracks\u201d an index (e.g. S&P 500). This is an example of:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 14,
+                "question_text": "A. Passive management. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 15,
+                "question_text": "B. Active management.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 16,
+                "question_text": "C. Hedge fund strategy.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 17,
+                "question_text": "D. Private equity style.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 18,
+                "question_text": "Explanation: Passive (index) funds aim to replicate an index\u2019s performance with low fees, rather than",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 19,
+                "question_text": "Which metric would an investor use to compare risk-adjusted performance across funds?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 20,
+                "question_text": "A. Absolute return percentage.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 21,
+                "question_text": "B. Sharpe ratio. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 22,
+                "question_text": "C. Assets under management.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 23,
+                "question_text": "D. Leverage ratio.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 24,
+                "question_text": "Explanation: Sharpe ratio (return minus risk-free rate divided by volatility) compares how much",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 25,
+                "question_text": "In modern portfolio theory, what is the efficient frontier?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 26,
+                "question_text": "A. The line dividing good and bad securities.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 27,
+                "question_text": "B. The set of portfolios that maximize return for each level of risk. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 28,
+                "question_text": "C. A guarantee of risk-free profit.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 29,
+                "question_text": "D. The minimum-variance portfolio line only.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 30,
+                "question_text": "Explanation: Portfolios on the efficient frontier provide the highest expected return for a given",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 31,
+                "question_text": "What does \u201clock-up period\u201d mean for a private equity fund?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 32,
+                "question_text": "A. Time when fund shares are frozen for trading on exchanges.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 33,
+                "question_text": "B. Period after investment during which investors cannot redeem their capital. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 34,
+                "question_text": "C. Deadline for investors to join the fund.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 35,
+                "question_text": "D. Maximum time the fund can hold investments.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 36,
+                "question_text": "Explanation: Private funds often impose a lock-up, preventing investors from withdrawing funds for a",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 37,
+                "question_text": "Which is an example of a real asset alternative investment?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 38,
+                "question_text": "A. Corporate bond.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 39,
+                "question_text": "B. Commercial real estate property. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 40,
+                "question_text": "C. Stock of a tech company.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 41,
+                "question_text": "D. Government treasury note.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 42,
+                "question_text": "Explanation: Real assets are tangible (e.g., real estate, infrastructure, commodities). Real estate funds",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 43,
+                "question_text": "In risk parity investing, weights of assets are chosen based on:",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 44,
+                "question_text": "A. Expected returns only.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 45,
+                "question_text": "B. Risk contribution (volatility) of each asset. (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 46,
+                "question_text": "C. Market capitalization.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 47,
+                "question_text": "D. Historical price.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 48,
+                "question_text": "Explanation: Risk parity allocates capital so that each asset class contributes equally to total portfolio",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 49,
+                "question_text": "What is \u201calpha\u201d in portfolio management?",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 50,
+                "question_text": "A. A specific mutual fund name.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 51,
+                "question_text": "B. Return in excess of what is explained by market risk (benchmark). (Correct)",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 52,
+                "question_text": "C. The statistical correlation coefficient.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 53,
+                "question_text": "D. Another term for volatility.",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 54,
+                "question_text": "Explanation: Alpha is the portion of return not explained by beta (market movements). It represents",
+                "options": [],
+                "answer": ""
+            },
+            {
+                "question_number": 55,
+                "question_text": "A closed-end fund differs from an open-end mutual fund because:",
+                "options": [],
+                "answer": ""
+            }
+        ]
+    }
+]
