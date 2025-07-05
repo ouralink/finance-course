@@ -23,11 +23,11 @@ function App() {
             sidebarOpen={sidebarOpen}
           />
           
-          <div className="flex h-screen pt-16">
+          <div className="flex pt-16">
             {/* Sidebar */}
-            <div className={`fixed inset-y-0 left-0 z-50 w-80 bg-white shadow-lg transform transition-transform duration-300 ease-in-out pt-16 ${
+            <div className={`fixed inset-y-0 left-0 z-40 w-80 transform transition-transform duration-300 ease-in-out pt-16 ${
               sidebarOpen ? 'translate-x-0' : '-translate-x-full'
-            } lg:translate-x-0 lg:static lg:inset-0`}>
+            } lg:translate-x-0 lg:static lg:inset-0 lg:pt-0`}>
               <Sidebar 
                 isOpen={sidebarOpen}
                 onClose={() => setSidebarOpen(false)}
@@ -38,13 +38,13 @@ function App() {
             {/* Overlay for mobile */}
             {sidebarOpen && (
               <div 
-                className="fixed inset-0 bg-black bg-opacity-50 z-40 lg:hidden"
+                className="fixed inset-0 bg-black bg-opacity-50 z-30 lg:hidden"
                 onClick={() => setSidebarOpen(false)}
               />
             )}
             
             {/* Main content */}
-            <main className="flex-1 overflow-auto bg-gray-50 lg:ml-0">
+            <main className="flex-1 min-h-screen bg-gray-50 lg:ml-0">
               <div className="p-6 max-w-7xl mx-auto">
                 <Routes>
                   <Route path="/" element={<Dashboard curriculum={curriculumData} />} />
@@ -63,4 +63,3 @@ function App() {
 }
 
 export default App;
-
