@@ -9,7 +9,7 @@ import QuizView from './components/QuizView';
 import { ProgressProvider } from './contexts/ProgressContext';
 import curriculumData from './parsed_curriculum.json';
 import quizzesData from './parsed_quizzes.json';
-import './App.css';
+import './index.css';
 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
