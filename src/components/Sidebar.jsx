@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { ChevronRight, BookOpen, Award, TrendingUp, X, CheckCircle, Circle } from 'lucide-react';
+import { ChevronRight, BookOpen, Award, TrendingUp, X, CheckCircle, Circle, Target, Trophy } from 'lucide-react';
 import { useProgress } from '../contexts/ProgressContext';
 
 const Sidebar = ({ isOpen, onClose, curriculum }) => {
@@ -9,7 +9,7 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
 
   if (!curriculum || !curriculum.years) {
     return (
-      <div className="h-full flex flex-col bg-white">
+      <div className="h-full flex flex-col bg-white shadow-xl">
         <div className="p-6 text-center">
           <div className="skeleton w-full h-4 rounded mb-2"></div>
           <div className="skeleton w-3/4 h-4 rounded"></div>
@@ -26,13 +26,13 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
   const completedModules = Object.values(useProgress().progress.modules || {}).filter(Boolean).length;
 
   return (
-    <div className="h-full flex flex-col bg-white shadow-strong">
+    <div className="h-full flex flex-col bg-white shadow-xl border-r border-gray-100">
       {/* Mobile close button */}
       <div className="lg:hidden flex justify-between items-center p-4 border-b border-gray-100">
         <h3 className="font-semibold text-gray-900">Course Navigation</h3>
         <button
           onClick={onClose}
-          className="p-2 rounded-xl hover:bg-gray-100 transition-all duration-200 hover-scale"
+          className="p-2 rounded-xl hover:bg-gray-100 transition-colors"
           aria-label="Close sidebar"
         >
           <X className="h-5 w-5" />
@@ -40,7 +40,7 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
       </div>
 
       {/* Progress Summary */}
-      <div className="p-6 bg-gradient-to-br from-blue-50 via-purple-50 to-emerald-50 border-b border-gray-100">
+      <div className="p-6 bg-gradient-to-br from-blue-50 to-indigo-50 border-b border-gray-100">
         <div className="text-center space-y-4">
           <div className="relative inline-flex">
             <svg className="w-20 h-20 transform -rotate-90">
@@ -72,17 +72,17 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
           </div>
           
           <div className="space-y-2">
-            <h3 className="font-bold text-gray-900">Your Journey</h3>
+            <h3 className="font-bold text-gray-900">Your Learning Journey</h3>
             <p className="text-sm text-gray-600 leading-relaxed">
               Master finance with our comprehensive curriculum designed to match top university standards
             </p>
             
             <div className="grid grid-cols-2 gap-4 mt-4">
-              <div className="bg-white rounded-xl p-3 shadow-soft">
+              <div className="bg-white rounded-xl p-3 shadow-sm border border-gray-100">
                 <div className="text-lg font-bold text-blue-600">{completedModules}</div>
                 <div className="text-xs text-gray-600">Completed</div>
               </div>
-              <div className="bg-white rounded-xl p-3 shadow-soft">
+              <div className="bg-white rounded-xl p-3 shadow-sm border border-gray-100">
                 <div className="text-lg font-bold text-gray-900">{totalModules}</div>
                 <div className="text-xs text-gray-600">Total Modules</div>
               </div>
@@ -109,7 +109,7 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
                   to={`/year/${year.number}`}
                   className={`group flex items-center justify-between p-4 rounded-2xl transition-all duration-300 hover-lift ${
                     isCurrentYear
-                      ? 'bg-gradient-to-r from-blue-50 to-emerald-50 border-2 border-blue-200 shadow-medium'
+                      ? 'bg-gradient-to-r from-blue-50 to-indigo-50 border-2 border-blue-200 shadow-md'
                       : 'hover:bg-gray-50 border-2 border-transparent'
                   }`}
                   onClick={() => onClose && onClose()}
@@ -117,7 +117,7 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
                   <div className="flex items-center space-x-3 flex-1">
                     <div className={`relative p-2 rounded-xl transition-all duration-200 ${
                       isCurrentYear 
-                        ? 'bg-gradient-to-br from-blue-500 to-emerald-500 text-white shadow-medium' 
+                        ? 'bg-gradient-to-br from-blue-500 to-indigo-600 text-white shadow-md' 
                         : 'bg-gray-100 text-gray-600 group-hover:bg-blue-100 group-hover:text-blue-600'
                     }`}>
                       <BookOpen className="h-4 w-4" />
@@ -137,7 +137,7 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
                       <div className="flex items-center space-x-2 mt-1">
                         <div className="flex-1 h-1.5 bg-gray-200 rounded-full overflow-hidden">
                           <div 
-                            className="h-full bg-gradient-to-r from-blue-500 to-emerald-500 rounded-full transition-all duration-1000"
+                            className="h-full bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full transition-all duration-1000"
                             style={{ width: `${yearProgress}%` }}
                           ></div>
                         </div>
@@ -167,7 +167,7 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
                           to={`/year/${year.number}/module/${index}`}
                           className={`flex items-center space-x-3 p-3 rounded-xl transition-all duration-200 hover-scale ${
                             isCurrentModule
-                              ? 'bg-blue-50 text-blue-700 border border-blue-200 shadow-soft'
+                              ? 'bg-blue-50 text-blue-700 border border-blue-200 shadow-sm'
                               : 'text-gray-600 hover:text-blue-600 hover:bg-blue-50'
                           }`}
                           onClick={() => onClose && onClose()}
@@ -199,9 +199,9 @@ const Sidebar = ({ isOpen, onClose, curriculum }) => {
 
       {/* Bottom Achievement */}
       <div className="p-4 bg-gradient-to-r from-emerald-50 to-blue-50 border-t border-gray-100">
-        <div className="flex items-center space-x-3 p-3 bg-white rounded-xl shadow-soft">
+        <div className="flex items-center space-x-3 p-3 bg-white rounded-xl shadow-sm border border-gray-100">
           <div className="p-2 bg-gradient-to-br from-emerald-500 to-blue-500 rounded-xl">
-            <Award className="h-4 w-4 text-white" />
+            <Trophy className="h-4 w-4 text-white" />
           </div>
           <div className="flex-1">
             <div className="text-sm font-semibold text-gray-900">Finance Expert</div>

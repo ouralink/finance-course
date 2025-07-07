@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BookOpen, Clock, Award, TrendingUp, ChevronRight, Play, Users, Star, Target, Zap, Trophy } from 'lucide-react';
+import { BookOpen, Clock, Award, TrendingUp, ChevronRight, Play, Users, Star, Target, Zap, Trophy, GraduationCap, Sparkles } from 'lucide-react';
 import { useProgress } from '../contexts/ProgressContext';
 
 const Dashboard = ({ curriculum }) => {
@@ -59,14 +59,14 @@ const Dashboard = ({ curriculum }) => {
   return (
     <div className="max-w-7xl mx-auto space-y-8 fade-in-up">
       {/* Hero Section */}
-      <div className="relative overflow-hidden bg-gradient-to-br from-blue-600 via-purple-700 to-emerald-600 rounded-3xl p-8 md:p-12 text-white shadow-strong">
-        <div className="absolute inset-0 bg-black/10"></div>
-        <div className="absolute top-0 right-0 w-96 h-96 bg-white/10 rounded-full -translate-y-48 translate-x-48"></div>
+      <div className="relative overflow-hidden bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-900 rounded-3xl p-8 md:p-12 text-white shadow-2xl">
+        <div className="absolute inset-0 bg-black/20"></div>
+        <div className="absolute top-0 right-0 w-96 h-96 bg-white/5 rounded-full -translate-y-48 translate-x-48"></div>
         <div className="absolute bottom-0 left-0 w-64 h-64 bg-white/5 rounded-full translate-y-32 -translate-x-32"></div>
         
         <div className="relative max-w-4xl">
-          <div className="inline-flex items-center space-x-2 bg-white/20 rounded-full px-4 py-2 mb-6 glass">
-            <Zap className="h-4 w-4" />
+          <div className="inline-flex items-center space-x-2 bg-white/10 rounded-full px-4 py-2 mb-6 backdrop-blur-sm border border-white/20">
+            <Sparkles className="h-4 w-4" />
             <span className="text-sm font-medium">Ivy League Standard</span>
           </div>
           
@@ -85,12 +85,12 @@ const Dashboard = ({ curriculum }) => {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               to="/year/1"
-              className="inline-flex items-center px-8 py-4 bg-white text-blue-600 font-bold rounded-2xl hover:bg-blue-50 transition-all duration-300 shadow-medium hover:shadow-strong hover-lift group"
+              className="inline-flex items-center px-8 py-4 bg-white text-blue-900 font-bold rounded-2xl hover:bg-blue-50 transition-all duration-300 shadow-lg hover:shadow-xl hover-lift group"
             >
               <Play className="h-5 w-5 mr-2 group-hover:scale-110 transition-transform" />
               Start Your Journey
             </Link>
-            <button className="inline-flex items-center px-8 py-4 bg-white/20 text-white font-semibold rounded-2xl hover:bg-white/30 transition-all duration-300 glass">
+            <button className="inline-flex items-center px-8 py-4 bg-white/10 text-white font-semibold rounded-2xl hover:bg-white/20 transition-all duration-300 backdrop-blur-sm border border-white/20">
               <Users className="h-5 w-5 mr-2" />
               Join 10,000+ Students
             </button>
@@ -102,7 +102,7 @@ const Dashboard = ({ curriculum }) => {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
         {stats.map((stat, index) => (
           <div key={index} className="group hover-lift scale-in" style={{ animationDelay: `${index * 0.1}s` }}>
-            <div className="bg-white rounded-2xl p-6 shadow-soft border border-gray-100 group-hover:shadow-medium transition-all duration-300">
+            <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100 group-hover:shadow-lg transition-all duration-300">
               <div className="flex items-center justify-between mb-4">
                 <div className={`p-3 rounded-2xl bg-gradient-to-br ${stat.bg} group-hover:scale-110 transition-transform duration-300`}>
                   <stat.icon className={`h-6 w-6 bg-gradient-to-br ${stat.color} bg-clip-text text-transparent`} />
@@ -120,7 +120,7 @@ const Dashboard = ({ curriculum }) => {
       </div>
 
       {/* Progress Overview */}
-      <div className="bg-white rounded-3xl p-8 shadow-soft border border-gray-100 hover:shadow-medium transition-all duration-300">
+      <div className="bg-white rounded-3xl p-8 shadow-sm border border-gray-100 hover:shadow-lg transition-all duration-300">
         <div className="flex items-center justify-between mb-8">
           <div>
             <h2 className="text-3xl font-bold text-gray-900 mb-2">Your Learning Journey</h2>
@@ -128,7 +128,7 @@ const Dashboard = ({ curriculum }) => {
           </div>
           <Link 
             to="/year/1"
-            className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-500 to-emerald-500 text-white font-semibold rounded-2xl hover:from-blue-600 hover:to-emerald-600 transition-all duration-300 shadow-medium hover:shadow-strong hover-lift"
+            className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-semibold rounded-2xl hover:from-blue-700 hover:to-indigo-700 transition-all duration-300 shadow-lg hover:shadow-xl hover-lift"
           >
             Continue Learning
             <ChevronRight className="h-5 w-5 ml-2" />
@@ -136,7 +136,7 @@ const Dashboard = ({ curriculum }) => {
         </div>
         
         {/* Overall Progress */}
-        <div className="mb-8 p-6 bg-gradient-to-r from-gray-50 to-blue-50 rounded-2xl">
+        <div className="mb-8 p-6 bg-gradient-to-r from-gray-50 to-blue-50 rounded-2xl border border-gray-100">
           <div className="flex items-center justify-between mb-4">
             <div className="flex items-center space-x-3">
               <Target className="h-6 w-6 text-blue-600" />
@@ -144,9 +144,9 @@ const Dashboard = ({ curriculum }) => {
             </div>
             <span className="text-2xl font-bold text-gray-900">{Math.round(totalProgress)}%</span>
           </div>
-          <div className="w-full bg-white rounded-full h-4 shadow-inner overflow-hidden">
+          <div className="w-full bg-white rounded-full h-4 shadow-inner overflow-hidden border border-gray-200">
             <div 
-              className="bg-gradient-to-r from-blue-500 to-emerald-500 h-4 rounded-full transition-all duration-1000 progress-fill shadow-medium"
+              className="bg-gradient-to-r from-blue-500 to-indigo-500 h-4 rounded-full transition-all duration-1000 progress-fill shadow-sm"
               style={{ width: `${totalProgress}%` }}
             ></div>
           </div>
@@ -170,7 +170,7 @@ const Dashboard = ({ curriculum }) => {
               <Link
                 key={year.number}
                 to={`/year/${year.number}`}
-                className="group block p-6 bg-gradient-to-br from-white to-gray-50 border border-gray-200 rounded-2xl hover:border-blue-300 hover:shadow-medium transition-all duration-300 hover-lift"
+                className="group block p-6 bg-gradient-to-br from-white to-gray-50 border border-gray-200 rounded-2xl hover:border-blue-300 hover:shadow-lg transition-all duration-300 hover-lift"
                 style={{ animationDelay: `${index * 0.1}s` }}
               >
                 <div className="flex items-start justify-between mb-4">
@@ -183,7 +183,7 @@ const Dashboard = ({ curriculum }) => {
                       {yearProgress === 100 ? (
                         <Trophy className="h-6 w-6" />
                       ) : (
-                        <BookOpen className="h-6 w-6" />
+                        <GraduationCap className="h-6 w-6" />
                       )}
                     </div>
                     <div>
@@ -195,7 +195,9 @@ const Dashboard = ({ curriculum }) => {
                       </p>
                     </div>
                   </div>
-                  <ChevronRight className="h-5 w-5 text-gray-400 group-hover:text-blue-600 group-hover:translate-x-1 transition-all duration-200" />
+                  <ChevronRight className={`h-5 w-5 transition-all duration-200 ${
+                    'text-gray-400 group-hover:text-blue-600 group-hover:translate-x-1'
+                  }`} />
                 </div>
 
                 <div className="mb-4">
@@ -208,7 +210,7 @@ const Dashboard = ({ curriculum }) => {
                       className={`h-3 rounded-full transition-all duration-1000 ${
                         yearProgress === 100 
                           ? 'bg-gradient-to-r from-emerald-500 to-emerald-600' 
-                          : 'bg-gradient-to-r from-blue-500 to-emerald-500'
+                          : 'bg-gradient-to-r from-blue-500 to-indigo-500'
                       }`}
                       style={{ width: `${yearProgress}%` }}
                     ></div>
@@ -246,7 +248,7 @@ const Dashboard = ({ curriculum }) => {
       <div className="relative overflow-hidden bg-gradient-to-br from-emerald-50 via-blue-50 to-purple-50 rounded-3xl p-8 text-center border border-gray-200">
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-100/50 to-blue-100/50"></div>
         <div className="relative">
-          <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-emerald-500 to-blue-500 rounded-2xl mb-6 shadow-medium">
+          <div className="inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br from-emerald-500 to-blue-500 rounded-2xl mb-6 shadow-lg">
             <Award className="h-8 w-8 text-white" />
           </div>
           <h2 className="text-3xl font-bold text-gray-900 mb-4">
@@ -259,12 +261,12 @@ const Dashboard = ({ curriculum }) => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               to="/year/1"
-              className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-emerald-600 to-blue-600 text-white font-bold rounded-2xl hover:from-emerald-700 hover:to-blue-700 transition-all duration-300 shadow-medium hover:shadow-strong hover-lift"
+              className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-emerald-600 to-blue-600 text-white font-bold rounded-2xl hover:from-emerald-700 hover:to-blue-700 transition-all duration-300 shadow-lg hover:shadow-xl hover-lift"
             >
               Continue Learning
               <ChevronRight className="h-5 w-5 ml-2" />
             </Link>
-            <button className="inline-flex items-center px-8 py-4 bg-white text-gray-700 font-semibold rounded-2xl hover:bg-gray-50 transition-all duration-300 shadow-soft border border-gray-200">
+            <button className="inline-flex items-center px-8 py-4 bg-white text-gray-700 font-semibold rounded-2xl hover:bg-gray-50 transition-all duration-300 shadow-sm border border-gray-200">
               <Clock className="h-5 w-5 mr-2" />
               View Schedule
             </button>
